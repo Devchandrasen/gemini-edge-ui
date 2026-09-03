@@ -76,7 +76,7 @@ gemini-edge-ui/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/gemini-edge-ui.git
+git clone https://github.com/Devchandrasen/gemini-edge-ui.git
 cd gemini-edge-ui
 ```
 
